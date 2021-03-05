@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+isort = "*"
+pep8 = "==1.7.1"
+pytest = "==5.4.1"
+pytest-cov = "==2.8.1"
+pytest-html = "==2.1.1"
+pytest-mock = "==3.0.0"
+pytest-profiling = "==1.7.0"
+rope = "==0.16.0"
+yapf = "==0.29.0"
+
+[packages]
+jupyter-book = "*"
+matplotlib = "*"
+pandas = "*"
+seaborn = "*"
+vaex = "*"
+
+[requires]
+python_version = "3.8"
