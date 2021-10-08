@@ -77,7 +77,6 @@
 		"python.testing.pytestEnabled": true,
 		"python.testing.autoTestDiscoverOnSaveEnabled": true,
 		"python.pythonPath": "${workspaceFolder}/.venv/bin/python",
-		"rst.preview.pythonPath": "${workspaceFolder}/.venv/bin/python",
 		"python.sortImports.path": "${workspaceFolder}/.venv/bin/isort",
 		"git.ignoreLimitWarning": true
 	}
